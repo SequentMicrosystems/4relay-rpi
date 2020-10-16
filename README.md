@@ -29,3 +29,9 @@ If you clone the repository any update can be made with the following commands:
 ~/4relay-rpi$ git pull
 ~/4relay-rpi$ sudo make install
 ```  
+
+Python driver can be found [here](https://github.com/SequentMicrosystems/4relay-rpi/tree/master/python).
+
+Node-Red example basd on "exec" node [here](https://github.com/SequentMicrosystems/4relay-rpi/tree/master/python).
+
+Node-Red "4relay" node under construction.
