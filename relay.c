@@ -1,7 +1,7 @@
 /*
- * relay8.c:
+ * relay.c:
  *	Command-line interface to the Raspberry
- *	Pi's 8-Relay board.
+ *	Pi's 4-Relay board.
  *	Copyright (c) 2016-2020 Sequent Microsystem
  *	<http://www.sequentmicrosystem.com>
  ***********************************************************************
@@ -284,7 +284,7 @@ int doBoardInit(int stack)
 	}
 	if (ERROR == i2cMem8Read(dev, RELAY8_CFG_REG_ADD, buff, 1))
 	{
-		printf("Relay8 id %d not detected\n", stack);
+		printf("4-RELAY card id %d not detected\n", stack);
 		return ERROR;
 	}
 	if (buff[0] != 0) //non initialized I/O Expander
