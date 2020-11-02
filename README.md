@@ -35,3 +35,5 @@ Python driver can be found [here](https://github.com/SequentMicrosystems/4relay-
 Node-Red example basd on "exec" node [here](https://github.com/SequentMicrosystems/4relay-rpi/tree/master/python).
 
 Node-Red "4relay" node under construction.
+
+[CODESYS Driver](https://github.com/SequentMicrosystems/4relay-rpi/tree/master/CODESYS)
