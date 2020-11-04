@@ -2,7 +2,7 @@
 
 # lib4relay
 
-This is the python library to control the [4relay](https://sequentmicrosystems.com/index.php?route=product/product&path=33&product_id=58) 4-Relay Stackable Card for Raspberry Pi.
+This is the python library to control the [4-RELAYS Heavy Duty Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/product/4-relays-heavy-duty-stackable-card-for-rpi/).
 
 ## Install
 
