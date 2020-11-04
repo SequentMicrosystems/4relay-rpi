@@ -2,7 +2,7 @@
 
 # 4relay-rpi
 
-This is the command to control [4-Relay Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/index.php?route=product/product&path=33&product_id=58)
+This is the command to control [4-RELAYS Heavy Duty Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/product/4-relays-heavy-duty-stackable-card-for-rpi/)
 
 Don't forget to enable I2C communication:
 ```bash
