@@ -1,8 +1,8 @@
-[![4relay-rpi](res/sequent.jpg)](https://sequentmicrosystems.com/index.php?route=product/product&path=33&product_id=58)
+[![4relay-rpi](res/sequent.jpg)](https://sequentmicrosystems.com
 
 # lib4relay
 
-This is the python library to control the [4-RELAYS Heavy Duty Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/product/4-relays-heavy-duty-stackable-card-for-rpi/).
+This is the python library to control the [4-RELAYS Heavy Duty Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/product/raspberry-pi-relays-heavy-duty-hat/).
 
 ## Install
 
