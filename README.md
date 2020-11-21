@@ -4,7 +4,7 @@
 
 [![4relay-rpi](readmeres/4-RELAYS.jpg)](https://sequentmicrosystems.com/product/4-relays-heavy-duty-stackable-card-for-rpi/)
 
-This is the command to control [4-RELAYS Heavy Duty Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/product/4-relays-heavy-duty-stackable-card-for-rpi/)
+This is the command to control [4-RELAYS Heavy Duty Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/product/raspberry-pi-relays-heavy-duty-hat/)
 
 Don't forget to enable I2C communication:
 ```bash
