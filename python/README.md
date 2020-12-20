@@ -1,4 +1,4 @@
-[![4relay-rpi](res/sequent.jpg)](https://sequentmicrosystems.com
+[![4relay-rpi](res/sequent.jpg)](https://sequentmicrosystems.com)
 
 # lib4relay
 
