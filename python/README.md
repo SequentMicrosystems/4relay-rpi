@@ -13,6 +13,16 @@ This is the python library to control the [4-RELAYS Heavy Duty Stackable Card fo
 ~$ cd 4relay-rpi/python/4relay/
 ~/4relay-rpi/python/4relay$ sudo python setup.py install
 ```
+
+Python3.x
+```bash
+~$ sudo apt-get update
+~$ sudo apt-get install build-essential python3-pip python3-dev python3-smbus git
+~$ git clone https://github.com/SequentMicrosystems/4relay-rpi.git
+~$ cd 4relay-rpi/python/4relay/
+~/4relay-rpi/python/4relay$ sudo python3 setup.py install
+```
+
 ## Update
 
 ```bash
