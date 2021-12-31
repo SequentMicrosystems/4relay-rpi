@@ -1,6 +1,6 @@
  # CODESYS Driver
 
-This is the Codesys driver for the [4-RELAYS Heavy Duty Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/product/raspberry-pi-relays-heavy-duty-hat/).
+This is the Codesys driver for the [4-RELAYS Heavy Duty Stackable Card for Raspberry Pi](https://sequentmicrosystems.com).
 
 We include the source code library in the package so everyone can modify. Note that it is an open source library with absolutely no warranty.
 Checkout our example project for guidance.
